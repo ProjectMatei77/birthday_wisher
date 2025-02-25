@@ -4,7 +4,7 @@ import random
 import pandas
 
 MY_EMAIL="mailpython77@gmail.com"
-MY_PASSWORD="ydooikcrugjaljei"
+MY_PASSWORD="ydo********aljei"
 
 
 today= datetime.now()
